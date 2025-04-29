@@ -1,0 +1,11 @@
+numpy==1.26.4
+scipy==1.13.1
+gensim==4.3.3
+nltk
+pandas
+scikit-learn
+streamlit
+beautifulsoup4
+fuzzywuzzy
+python-Levenshtein
+distance
