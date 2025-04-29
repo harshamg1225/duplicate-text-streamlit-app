@@ -17,3 +17,5 @@ Data fields
 •	**question1, question2** - the full text of each question
 
 •	**is_duplicate** - the target variable, set to 1 if question1 and question2 have essentially the same meaning, and 0 otherwise.
+
+**Dataset Link -** https://www.kaggle.com/c/quora-question-pairs
